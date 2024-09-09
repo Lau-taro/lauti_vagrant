@@ -1,0 +1,17 @@
+    1  ls -la
+    2  ssh-keygen -t ed25519
+    3  .ssh$ ls
+    4  /-ssh$ ls
+    5  cd .ssh
+    6  ls
+    7  cat id_ed25519.pub
+    8  cd ..
+    9  ls
+   10  cd repogit
+   11  ls
+   12  git clone git@github.com:Lau-taro/lauti_vagrant.git
+   13  ls
+   14  cd lauti_vagrant
+   15  ls
+   16  history
+   17  history > history.txt
